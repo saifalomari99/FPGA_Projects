@@ -26,10 +26,10 @@ The left 4 segments are the output (data)
   - `In this case, the address max 212f which is 100c`
 <img src='./pictures/ex_max212.png' width='400'>
 
-4- Third: Converting from Celsius (acts as an input address) to Fahrenheit (output)
+4- Fourth: Converting from Celsius (acts as an input address) to Fahrenheit (output)
   - `In this case, the address is under 100c`
 <img src='./pictures/ex_under100.png' width='400'>
 
-5- Third: Converting from Celsius (acts as an input address) to Fahrenheit (output)
+5- Fifth: Converting from Celsius (acts as an input address) to Fahrenheit (output)
   - `In this case, the address is above 100c (out-of-range)`
 <img src='./pictures/ex_above100.png' width='400'>
