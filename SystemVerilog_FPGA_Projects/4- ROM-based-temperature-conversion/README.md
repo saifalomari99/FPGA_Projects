@@ -1,6 +1,6 @@
 # ROM-based-temperature-conversion
 
-In this project, I constructed a circuit that uses the on-board DRAM to act like ROM.
+In this project, I constructed a circuit that uses the on-board BRAM to act like ROM.
 
 Our Design:
 
