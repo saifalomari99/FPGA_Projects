@@ -13,9 +13,9 @@ Functionality of the Barrel Shifter:
     - output:        `y = 1010_1101`
 
 - Example 2 (left barrel shift):
-input:        `a = 0110_1101`
-shift amount: `amt = 3`    
-output:        `y = 0110_1011`
+        - input:        `a = 0110_1101`
+        - shift amount: `amt = 3`    
+        - output:        `y = 0110_1011`
 
 
 <img src='./pictures/multi_function_barrel_shifter.jpg' width='500'>
