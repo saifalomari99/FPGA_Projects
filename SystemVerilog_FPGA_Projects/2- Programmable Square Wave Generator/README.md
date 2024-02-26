@@ -6,6 +6,8 @@ A Programmable Square Wave Generator is a device or circuit capable of producing
 Square waves are characterized by their distinct on-off pattern, where the signal alternates between two voltage levels (usually high and low) at regular intervals. This makes them useful in various applications such as digital communication, signal processing, instrumentation, and testing.
 
 
+My design: 
+<img src='./pictures/programmable_square_wave_generator.jpg' width='500'>
 
 
 
