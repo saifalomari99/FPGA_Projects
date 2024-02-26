@@ -15,4 +15,7 @@ My design:
 <img src='./pictures/programmable_square_wave_generator.jpg' width='500'>
 
 
-
+Screenshot of output simulation: 
+m = on cycles
+n = off cycles
+<img src='./pictures/simulation.png' width='500'>
