@@ -5,6 +5,8 @@ A Programmable Square Wave Generator is a device or circuit capable of producing
 
 Square waves are characterized by their distinct on-off pattern, where the signal alternates between two voltage levels (usually high and low) at regular intervals. This makes them useful in various applications such as digital communication, signal processing, instrumentation, and testing.
 
+- Example:
+  - if `up = 0100` and `down = 0001`, that transleates to 40ms on and 10ms off of cycles. 
 
 My design: 
 
