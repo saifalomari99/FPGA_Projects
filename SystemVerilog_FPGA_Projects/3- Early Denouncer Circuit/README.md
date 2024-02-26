@@ -6,9 +6,9 @@ In an early debouncer circuit, the output signal reacts faster than the input si
 
 Early Debouncer FSM Diagram:
 
-<img src='./FSM_diagram.jpg' width='400'>
+<img src='./pictures/FSM_diagram.jpg' width='400'>
 
 
 Screenshot from the simulation: 
 
-<img src='./FSM_diagram.jpg' width='400'>
+<img src='./pictures/FSM_diagram.jpg' width='400'>
