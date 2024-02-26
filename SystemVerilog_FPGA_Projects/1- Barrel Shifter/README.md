@@ -20,9 +20,11 @@ Functionality of the Barrel Shifter:
 
 
 Multi-Function Barrel Shifter: (shifts right and left using a mux) 
+
 <img src='./pictures/multi_function_barrel_shifter.jpg' width='500'>
 
 
 Multi-Function Barrel Shifter using a reverser: (shift right and left using a mux and reverser module)
+
 <img src='./pictures/multi_function_barrel_shifter_reverser.jpg' width='500'>
 
