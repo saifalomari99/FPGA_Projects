@@ -8,11 +8,11 @@ The main advantage of a barrel shifter is its ability to perform shifts of multi
 
 Functionality of the Barrel Shifter: 
 - Example 1 (Right barrel shift): 
-input:        `a = 0110_1101`
-shift amount: `amt = 3`    
-output:        `y = 1010_1101`
+    - input:        `a = 0110_1101`
+    - shift amount: `amt = 3`    
+    - output:        `y = 1010_1101`
 
-Example 2 (left barrel shift):
+- Example 2 (left barrel shift):
 input:        `a = 0110_1101`
 shift amount: `amt = 3`    
 output:        `y = 0110_1011`
