@@ -18,4 +18,5 @@ My design:
 Screenshot of output simulation: 
 m = on cycles
 n = off cycles
+
 <img src='./pictures/Simulation.png' width='500'>
