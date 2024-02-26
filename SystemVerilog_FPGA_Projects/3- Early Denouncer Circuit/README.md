@@ -11,4 +11,4 @@ Early Debouncer FSM Diagram:
 
 Screenshot from the simulation: 
 
-<img src='./pictures/FSM_diagram.jpg' width='400'>
+<img src='./pictures/test_bench.png' width='400'>
