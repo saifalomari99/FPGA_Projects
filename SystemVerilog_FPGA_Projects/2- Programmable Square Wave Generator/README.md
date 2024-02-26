@@ -7,6 +7,7 @@ Square waves are characterized by their distinct on-off pattern, where the signa
 
 
 My design: 
+
 <img src='./pictures/programmable_square_wave_generator.jpg' width='500'>
 
 
