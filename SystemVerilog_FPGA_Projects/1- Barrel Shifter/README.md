@@ -6,6 +6,18 @@ Barrel shifters are commonly used in digital signal processing (DSP), microproce
 
 The main advantage of a barrel shifter is its ability to perform shifts of multiple bits in parallel, which can significantly improve performance compared to serial shifters. This parallelism is achieved through a combination of multiplexers and logical gates arranged in a barrel-like structure.
 
+Functionality of the Barrel Shifter: 
+- Example 1 (Right barrel shift): 
+input:        'a = 0110_1101'
+shift amount: 'amt = 3'    
+output:        y = 1010_1101
+
+Example 2 (left barrel shift):
+input:        'a = 0110_1101'
+shift amount: 'amt = 3'    
+output:        y = 0110_1011
+
+
 <img src='./pictures/multi_function_barrel_shifter.jpg' width='500'>
 
 
