@@ -1,4 +1,4 @@
-# Barrel Shifter 
+# Barrel Shifter - Saif Alomari
 
 A barrel shifter is a digital circuit that can shift binary data by a specified number of positions in a single clock cycle. It gets its name from the conceptual analogy of rotating a barrel to shift its contents.
 
