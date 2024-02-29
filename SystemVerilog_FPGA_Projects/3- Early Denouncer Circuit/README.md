@@ -1,4 +1,4 @@
-# Early Debouncer Circuit
+# Early Debouncer Circuit - Saif Alomari
 
 Debouncing circuits are used in digital electronics to remove noise or bounce from the input signal, especially in applications where mechanical switches are used. Delayed and early debouncer circuits are variations of debouncing circuits that aim to address specific timing issues in the signal transition.
 
