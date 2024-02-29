@@ -1,4 +1,4 @@
-# FIFO Buffer
+# FIFO Buffer - Saif Alomari
 
 A FIFO buffer, also known as a first-in, first-out buffer, is a data structure used in electronics to manage data transmission between two processes or devices. It operates on the principle that the data that enters the buffer first will be the first to exit.
 FIFO buffers are often used in scenarios where there is a difference in the rate of data production and consumption, acting as a temporary storage mechanism to smooth out these differences. 
