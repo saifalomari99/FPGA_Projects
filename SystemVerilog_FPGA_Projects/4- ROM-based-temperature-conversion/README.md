@@ -1,4 +1,4 @@
-# ROM-based-temperature-conversion
+# ROM-based-temperature-conversion - Saif Alomari
 
 In this project, I constructed a circuit that uses the on-board BRAM to act like ROM.
 
