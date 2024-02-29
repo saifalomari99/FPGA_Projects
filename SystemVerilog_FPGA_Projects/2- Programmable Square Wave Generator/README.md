@@ -1,5 +1,5 @@
 
-# Programmable Square Wave Generator
+# Programmable Square Wave Generator - Saif Alomari
 
 A Programmable Square Wave Generator is a device or circuit capable of producing square wave signals with adjustable parameters such as frequency, duty cycle, and amplitude.
 
