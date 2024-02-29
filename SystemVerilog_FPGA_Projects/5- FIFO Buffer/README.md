@@ -3,7 +3,13 @@
 A FIFO buffer, also known as a first-in, first-out buffer, is a data structure used in electronics to manage data transmission between two processes or devices. It operates on the principle that the data that enters the buffer first will be the first to exit.
 FIFO buffers are often used in scenarios where there is a difference in the rate of data production and consumption, acting as a temporary storage mechanism to smooth out these differences. 
 
-The design of the Asymmetric FIFO Buffer: 
+<img src='./pictures/fifo.png' width='400'>
+
+The design of the FIFO Buffer (8-bit input, 8-bit output): 
+
+<img src='./pictures/fifo_buffer_design.png' width='400'>
+
+The design of the Asymmetric FIFO Buffer (16-bit input, 8-bit output): 
 
 <img src='./pictures/asymmetric_fifo_buffer_design.jpg' width='400'>
 
