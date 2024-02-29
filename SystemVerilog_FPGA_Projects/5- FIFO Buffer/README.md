@@ -17,7 +17,7 @@ The design of the Asymmetric FIFO Buffer (16-bit input, 8-bit output):
 
 `------------------------------------------------------------------------------------------------------------`
 
-Screenshot of the simulation output: 
+Screenshot of the simulation output for the Asymmetric FIFO Buffer: 
 
 <img src='./pictures/full_screenshot.png' width='800'>
 
