@@ -11,6 +11,6 @@ The FPro system is composed of those major parts shown in the diagram down below
 
 <img src='./pictures/file_hierarchy.jpg' width='500'>
 
-In this file, I developed a new core called "Blinking_LED" and I added it to the MMIO 
+In this file, I developed a new core called "Blinking_LED" and I added it to the MMIO subsystem: 
 
-<img src='./pictures/blinking_core.jpg' width='650'>
+<img src='./pictures/blinking_core.jpg' width='500'>
