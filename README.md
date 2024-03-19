@@ -33,3 +33,5 @@ In this Repository, there is a collection of high-level projects:
 
 The SystemVerilog Projects and files in this repository are based on the excellent text by Pong Chu FPGA Prototyping by SystemVerilog Examples (Xilinx MicroBlaze MCS SoC Edition). 
 
+The projects in this Repository were implemented on the ”Nexys A7-100T” FPGA trainer board by DIGILENT (previously known as the Nexys 4 DDR).
+
