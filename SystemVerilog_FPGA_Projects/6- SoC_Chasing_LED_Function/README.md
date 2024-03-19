@@ -23,7 +23,7 @@ as hardware accelerators.
 <img src='./pictures/file_hierarchy.jpg' width='800'>
 
 
-The steps to build the Chasing_LED function: 
+The steps to build the Chasing_LED function on the application level: 
 
 1. The 16 discrete LEDs are used as output, one lit at a time.
 2. The lit LED moves sequentially in either direction. It changes direction when reaching 
