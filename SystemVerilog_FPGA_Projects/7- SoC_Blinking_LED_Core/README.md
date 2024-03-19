@@ -11,6 +11,6 @@ The FPro system is composed of those major parts shown in the diagram down below
 
 <img src='./pictures/file_hierarchy.jpg' width='500'>
 
-In this file, I developed a new core called "Blinking_LED" and I added it to the MMIO subsystem: 
+In this file, I developed a new core called "Blinking_LED" and I added it to the MMIO subsystem as shown in the diagram above. The design for the Blinking_LED_Core is shown in the diagram below; where it consists of 4 registers to hold the values of the intervals (the rate at which the LED blinks) and then send them to 4 square wave generators that are slowed down to a 1ms clk to better visualize the blinked of the LEDs. 
 
 <img src='./pictures/blinking_core.jpg' width='500'>
