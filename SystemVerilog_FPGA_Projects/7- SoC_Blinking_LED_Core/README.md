@@ -10,7 +10,7 @@ Processor module: The processor module consists of a processor, a memory control
 FPro bridge and FPro bus: The processor needs to communicate with other cores. This is done by a bus or interconnect structure specified in the vendor’s IP platform. The modern interconnect is designed to accommodate a wide variety of communication and data transfer needs and involves complex protocols.
 MMIO (memory-mapped I/O) subsystem: The MMIO subsystem provides a framework to accommodate memory-mapped general-purpose and special I/O peripherals as well as hardware accelerators.
 
-<img src='./pictures/file_hierarchy.jpg' width='800'>
+<img src='./pictures/file_hierarchy.jpg' width='500'>
 
 
-<img src='./pictures/blinking_core.jpg' width='800'>
+<img src='./pictures/blinking_core.jpg' width='650'>
