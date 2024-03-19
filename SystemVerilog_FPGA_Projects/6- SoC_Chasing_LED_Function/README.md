@@ -1,18 +1,8 @@
 # SoC_Chasing_LED_Function - Saif Alomari
 
 In this project, 
-A “high-end” embedded system usually has a processor and simple
-I/O peripherals to perform general user interface and housekeeping
-tasks and special hardware accelerators to handle computationintensive operations. These components can be integrated into a
-single integrated circuit, commonly referred to as an SoC (system on
-a chip).
-As the capacity of FPGA devices continues to grow, the same design
-methodology can be realized in an FPGA chip. Instead of just
-realizing the system functionalities by customized software, we can
-incorporate customized hardware into the embedded system as well.
-The FPGA technology allows us to tailor the processor, select only the
-needed I/O peripherals, create a custom I/O interface, and develop
-specialized hardware accelerators for computation-intensive tasks.
+A “high-end” embedded system usually has a processor and simple I/O peripherals to perform general user interface and housekeeping tasks and special hardware accelerators to handle computation-intensive operations. These components can be integrated into a single integrated circuit, commonly referred to as an SoC (system on a chip). 
+As the capacity of FPGA devices continues to grow, the same design methodology can be realized in an FPGA chip. Instead of just realizing the system functionalities through customized software, we can incorporate customized hardware into the embedded system as well. The FPGA technology allows us to tailor the processor, select only the needed I/O peripherals, create a custom I/O interface, and develop specialized hardware accelerators for computation-intensive tasks.
 
 
 <img src='./pictures/file_hierarchy.jpg' width='800'>
