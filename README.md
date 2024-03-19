@@ -30,3 +30,6 @@ In this Repository, there is a collection of high-level projects:
     - 9- FSMD Bit Counting Circuit
     - 10- Data Transmission
     - 11- FSM Questions Game
+
+The SystemVerilog Projects and files in this repository are based on the excellent text by Pong Chu FPGA Prototyping by SystemVerilog Examples (Xilinx MicroBlaze MCS SoC Edition). 
+
