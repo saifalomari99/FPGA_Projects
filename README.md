@@ -15,6 +15,8 @@ In this Repository, there is a collection of high-level projects:
     - 3- Early Denouncer Circuit
     - 4- ROM-based-temperature-conversion
     - 5- FIFO Buffer
+    - 6- SoC_Chasing_LED_Function
+    - 7- SoC_Blinking_LED_Core
 
 - Verilog (2023):
     - 1- Full Adder
