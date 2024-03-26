@@ -16,11 +16,11 @@ The Sampler Diagram (Made by HDL):
 
 # Application Level: 
 
-In this project, I used the potentiometer to control the speed of the chasing LED. This was done on the application level, by 
+In this project, I used the potentiometer to control the speed of the chasing LED. This was done on the application level, by The chase_LED function that controls a series of LEDs to create a chasing light effect, where the speed of the chase is dynamically adjusted based on analog input. This input is read from an ADC (Analog-to-Digital Converter) pin, allowing for real-time speed control. The function supports two directions for the light chase, which can be toggled by a switch. This demonstrates the integration of analog inputs with digital logic to create interactive and visually appealing patterns on FPGA board.
 
 
 <img src='./pictures/gif_demo.gif' width='500'>
 
-
+Wiring Diagram (to the ADC pins):
 
 <img src='./pictures/wiring_diagram.jpg' width='500'>
