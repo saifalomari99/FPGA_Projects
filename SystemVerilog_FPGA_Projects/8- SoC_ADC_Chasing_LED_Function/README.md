@@ -9,8 +9,18 @@ The FPro system is composed of those major parts shown in the diagram down below
 - FPro bridge and FPro bus: The processor needs to communicate with other cores. This is done by a bus or interconnect structure specified in the vendor’s IP platform. The modern interconnect is designed to accommodate a wide variety of communication and data transfer needs and involves complex protocols.
 - MMIO (memory-mapped I/O) subsystem: The MMIO subsystem provides a framework to accommodate memory-mapped general-purpose and special I/O peripherals as well as hardware accelerators.
 
+The Sampler Diagram (Made by HDL): 
 
-In this project, I used the potentiometer to control the speed of the chasing LED
+<img src='./pictures/sampler_system.jpg' width='800'>
+
+
+# Application Level: 
+
+In this project, I used the potentiometer to control the speed of the chasing LED. This was done on the application level, by 
 
 
 <img src='./pictures/gif_demo.gif' width='500'>
+
+
+
+<img src='./pictures/wiring_diagram.jpg' width='500'>
