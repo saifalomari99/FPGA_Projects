@@ -17,6 +17,7 @@ In this Repository, there is a collection of high-level projects:
     - 5- FIFO Buffer
     - 6- SoC_Chasing_LED_Function
     - 7- SoC_Blinking_LED_Core
+    - 8- SoC_ADC_Chasing_LED_Function
 
 - Verilog (2023):
     - 1- Full Adder
