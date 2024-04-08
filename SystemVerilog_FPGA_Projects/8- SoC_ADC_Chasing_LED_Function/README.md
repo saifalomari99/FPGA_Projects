@@ -24,4 +24,4 @@ Demo of the project on the FPGA board:
 
 Wiring Diagram (from the potentiometer to the ADC pins):
 
-<img src='./pictures/wiring_diagram.jpg' width='500'>
+<img src='./pictures/wiring_diagram_2.jpg' width='500'>
