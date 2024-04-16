@@ -36,4 +36,4 @@ The SystemVerilog Projects and files in this repository are based on the excelle
 
 The projects in this Repository were implemented on the ”Nexys A7-100T” FPGA trainer board by DIGILENT (previously known as the Nexys 4 DDR).
 
-<img src='./NexysA7-100T.jpg' width='800'>
+<img src='./NexysA7-100T.jpg' width='400'>
