@@ -24,7 +24,7 @@ In this project, the function `chase_LED_keyboard` controls a series of LEDs to 
 
 Demo of the project on the FPGA board:
 - `P` (for pause).
-- `SP = 154` (for speed 000 to 999).
+- `SP = 500` (for speed 000 to 999).
 
 <img src='./pictures/demo.jpg' width='500'>
 
