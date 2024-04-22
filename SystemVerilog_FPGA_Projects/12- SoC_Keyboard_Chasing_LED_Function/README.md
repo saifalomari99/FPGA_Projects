@@ -14,23 +14,24 @@ The Sampler Diagram (Made by HDL):
 <img src='./pictures/file_hierarchy.jpg' width='800'>
 
 The cores that were used to accomplish the work: 
-- 1- pmod_enc_core (to get the readings from the Pmod encoder rotary)
-- 2- pwm_core (to control the RGB lights)
-- 3- Sseg_core (to display the degree of the color)
-
-The pmod_enc_core HDL diagram: 
-
-<img src='./pictures/pmod_enc_core.jpg' width='400'>
+- 1- Ps2_core (to get the code bits from the keyboard).
+- 2- Sseg_core (to display the outputs to the user).
 
 
 # Application Level: 
 
-In this project, the `rgb_controlled_pmod` function manages an interactive RGB LED display using various inputs to change colors and intensity dynamically. It begins by reading encoder inputs to control individual LEDs and set the initial color state with a button press, cycling through blue, green, and red. A second feature allows intensity adjustments for each color through rotary encoder inputs, affecting the PWM duty cycle to modify LED brightness. These changes are displayed in real-time on a seven-segment display, showing the current intensity levels for each color. This setup demonstrates complex input handling and real-time feedback integration on an FPGA board, showcasing the flexibility of hardware interfaces in creating responsive and customizable LED displays.
+In this project, the function `chase_LED_keyboard` controls a series of LEDs to create a dynamic chasing light effect, now managed via keyboard input rather than analog control. This version replaces the potentiometer and ADC with a PS2 keyboard interface to adjust the speed of the LEDs. Users can interactively modify the speed and pause or resume the light chase using specific keyboard keys. This digital input is processed in real time, demonstrating a seamless integration of user interfaces with digital logic on an FPGA board. The ability to toggle the direction of the chase adds an additional layer of interaction, making this project a practical example of how digital inputs can replace analog ones to control and visualize dynamic systems effectively.
 
 Demo of the project on the FPGA board:
+- `P` (for pause).
+- `SP = 154` (for speed 000 to 999).
 
 <img src='./pictures/demo.jpg' width='500'>
 
-Wiring Diagram (from the pmod_encoder to the JA pins):
+
+
+Keyboard with scan codes pins:
+- pressing `p` pauses the chasing_led.
+- pressing `F1` moves to the adjusting speed session.
 
 <img src='./pictures/scan_codes.jpg' width='500'>
