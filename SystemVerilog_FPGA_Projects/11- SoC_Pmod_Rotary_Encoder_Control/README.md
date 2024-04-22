@@ -25,7 +25,7 @@ The pmod_enc_core HDL diagram:
 
 # Application Level: 
 
-In this project, I used the potentiometer to control the speed of the chasing LED. This was done on the application level, by The chase_LED function that controls a series of LEDs to create a chasing light effect, where the speed of the chase is dynamically adjusted based on analog input. This input is read from an ADC (Analog-to-Digital Converter) pin, allowing for real-time speed control. The function supports two directions for the light chase, which can be toggled by a switch. This demonstrates the integration of analog inputs with digital logic to create interactive and visually appealing patterns on the FPGA board.
+In this project, the 'rgb_controlled_pmod' function manages an interactive RGB LED display using various inputs to change colors and intensity dynamically. It begins by reading encoder inputs to control individual LEDs and set the initial color state with a button press, cycling through blue, green, and red. A second feature allows intensity adjustments for each color through rotary encoder inputs, affecting the PWM duty cycle to modify LED brightness. These changes are displayed in real-time on a seven-segment display, showing the current intensity levels for each color. This setup demonstrates complex input handling and real-time feedback integration on an FPGA board, showcasing the flexibility of hardware interfaces in creating responsive and customizable LED displays.
 
 Demo of the project on the FPGA board:
 
