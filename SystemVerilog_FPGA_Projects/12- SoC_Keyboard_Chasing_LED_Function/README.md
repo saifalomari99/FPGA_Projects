@@ -29,7 +29,7 @@ In this project, the `rgb_controlled_pmod` function manages an interactive RGB L
 
 Demo of the project on the FPGA board:
 
-<img src='./pictures/pmod_demo.gif' width='500'>
+<img src='./pictures/demo.jpg' width='500'>
 
 Wiring Diagram (from the pmod_encoder to the JA pins):
 
