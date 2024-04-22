@@ -29,6 +29,8 @@ In this project, I used the potentiometer to control the speed of the chasing LE
 
 Demo of the project on the FPGA board:
 
-<img src='./pictures/gif_demo.gif' width='500'>
+<img src='./pictures/pmod_demo.gif' width='500'>
 
-Wiring Diagram (from the potentiometer to the ADC pins):
+Wiring Diagram (from the pmod_encoder to the JA pins):
+
+<img src='./pictures/wiring_diagram.gif' width='500'>
