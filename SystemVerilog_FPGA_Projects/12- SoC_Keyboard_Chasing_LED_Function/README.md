@@ -15,7 +15,8 @@ The Sampler Diagram (Made by HDL):
 
 The cores that were used to accomplish the work: 
 - 1- Ps2_core (to get the code bits from the keyboard).
-- 2- Sseg_core (to display the outputs to the user).
+- 2- GPO_core (to display the chasing LED).
+- 3- Sseg_core (to display the outputs to the user).
 
 
 # Application Level: 
