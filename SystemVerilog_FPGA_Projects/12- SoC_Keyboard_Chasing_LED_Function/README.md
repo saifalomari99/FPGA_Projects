@@ -33,4 +33,4 @@ Demo of the project on the FPGA board:
 
 Wiring Diagram (from the pmod_encoder to the JA pins):
 
-<img src='./pictures/wiring_diagram.jpg' width='500'>
+<img src='./pictures/scan_codes.jpg' width='500'>
