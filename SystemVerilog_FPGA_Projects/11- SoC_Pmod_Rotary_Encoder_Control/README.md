@@ -18,6 +18,11 @@ The cores that were used to accomplish the work:
 - 2- pwm_core (to control the RGB lights)
 - 3- Sseg_core (to display the degree of the color)
 
+The pmod_enc_core HDL diagram: 
+
+<img src='./pictures/pmod_enc_core.jpg' width='400'>
+
+
 # Application Level: 
 
 In this project, I used the potentiometer to control the speed of the chasing LED. This was done on the application level, by The chase_LED function that controls a series of LEDs to create a chasing light effect, where the speed of the chase is dynamically adjusted based on analog input. This input is read from an ADC (Analog-to-Digital Converter) pin, allowing for real-time speed control. The function supports two directions for the light chase, which can be toggled by a switch. This demonstrates the integration of analog inputs with digital logic to create interactive and visually appealing patterns on the FPGA board.
