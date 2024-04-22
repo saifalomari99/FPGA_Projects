@@ -25,7 +25,7 @@ The pmod_enc_core HDL diagram:
 
 # Application Level: 
 
-In this project, the 'rgb_controlled_pmod' function manages an interactive RGB LED display using various inputs to change colors and intensity dynamically. It begins by reading encoder inputs to control individual LEDs and set the initial color state with a button press, cycling through blue, green, and red. A second feature allows intensity adjustments for each color through rotary encoder inputs, affecting the PWM duty cycle to modify LED brightness. These changes are displayed in real-time on a seven-segment display, showing the current intensity levels for each color. This setup demonstrates complex input handling and real-time feedback integration on an FPGA board, showcasing the flexibility of hardware interfaces in creating responsive and customizable LED displays.
+In this project, the `rgb_controlled_pmod` function manages an interactive RGB LED display using various inputs to change colors and intensity dynamically. It begins by reading encoder inputs to control individual LEDs and set the initial color state with a button press, cycling through blue, green, and red. A second feature allows intensity adjustments for each color through rotary encoder inputs, affecting the PWM duty cycle to modify LED brightness. These changes are displayed in real-time on a seven-segment display, showing the current intensity levels for each color. This setup demonstrates complex input handling and real-time feedback integration on an FPGA board, showcasing the flexibility of hardware interfaces in creating responsive and customizable LED displays.
 
 Demo of the project on the FPGA board:
 
