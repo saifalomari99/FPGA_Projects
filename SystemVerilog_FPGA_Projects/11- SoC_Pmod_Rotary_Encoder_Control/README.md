@@ -13,6 +13,9 @@ The Sampler Diagram (Made by HDL):
 
 <img src='./pictures/file_hierarchy.jpg' width='800'>
 
+The cores that were used to accomplish the work: 
+1- pmod_enc_core
+2- 
 
 # Application Level: 
 
