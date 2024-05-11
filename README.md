@@ -18,6 +18,12 @@ In this Repository, there is a collection of high-level projects:
     - 6- SoC_Chasing_LED_Function
     - 7- SoC_Blinking_LED_Core
     - 8- SoC_ADC_Chasing_LED_Function
+    - 9- SoC_PWM_Spectrum_Display_Function
+    - 10- SoC_Tapping Detection_Function
+    - 11- SoC_Pmod_Rotary_Encoder_Control
+    - 12- SoC_Keyboard_Chasing_LED_Function
+    - 13- Vga Demo Square Generator
+    - 14- SoC_Final_Project_Dynamic_Game
 
 - Verilog (2023):
     - 1- Full Adder
