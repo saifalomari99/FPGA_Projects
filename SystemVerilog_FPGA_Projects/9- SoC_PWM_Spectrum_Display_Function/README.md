@@ -15,3 +15,11 @@ The Sampler Diagram (Made by HDL):
 
 
 # Application Level: 
+
+<img src='./images/spectrum_display.png' width='500'>
+
+
+
+Wiring Diagram (from the potentiometer to the ADC pins):
+
+<img src='./images/wiring_diagram.jpg' width='500'>
