@@ -11,7 +11,7 @@ The FPro system is composed of those major parts shown in the diagram down below
 
 The Sampler Diagram (Made by HDL): 
 
-<img src='./pictures/sampler_system.jpg' width='800'>
+<img src='./images/sampler_system.jpg' width='800'>
 
 
 # Application Level: 
