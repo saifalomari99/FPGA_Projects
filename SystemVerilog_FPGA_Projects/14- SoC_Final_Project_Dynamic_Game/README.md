@@ -22,6 +22,6 @@ The Complete System Diagram (Made by HDL):
 
 ## The rocket bit map: 
 
-<img src='./images/rocket_sprite.png' width='500'>
+<img src='./images/rocket_sprite.png' width='200'>
 
 
